@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(187, 25, 120, 0.61), 
+      rgba(11, 45, 119, 0.877)
+    ),
+    url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
